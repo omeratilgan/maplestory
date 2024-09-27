@@ -1,0 +1,12 @@
+com.example.gameeeee.app-debug-0 C:\Development\maplestory\android\app\src\debug\res
+com.example.gameeeee.app-main-1 C:\Development\maplestory\android\app\src\main\res
+com.example.gameeeee.app-pngs-2 C:\Development\maplestory\build\app\generated\res\pngs\debug
+com.example.gameeeee.app-resValues-3 C:\Development\maplestory\build\app\generated\res\resValues\debug
+com.example.gameeeee.app-rs-4 C:\Development\maplestory\build\app\generated\res\rs\debug
+com.example.gameeeee.app-mergeDebugResources-5 C:\Development\maplestory\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.gameeeee.app-mergeDebugResources-6 C:\Development\maplestory\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.gameeeee.app-merged_res-7 C:\Development\maplestory\build\app\intermediates\merged_res\debug
+com.example.gameeeee.app-jetified-window-java-1.0.0-beta04-8 C:\Users\PC\.gradle\caches\transforms-3\3740bc74f3ccb1b2ca0494eaf0684c87\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.gameeeee.app-jetified-annotation-experimental-1.1.0-9 C:\Users\PC\.gradle\caches\transforms-3\6a9a01ea7229bccb3ed1811cf95cb8b2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.gameeeee.app-core-1.6.0-10 C:\Users\PC\.gradle\caches\transforms-3\87e24ee8689e985fbc596f6976aab002\transformed\core-1.6.0\res
+com.example.gameeeee.app-jetified-window-1.0.0-beta04-11 C:\Users\PC\.gradle\caches\transforms-3\be87ff3b58bc171252b4850a1dd29885\transformed\jetified-window-1.0.0-beta04\res
